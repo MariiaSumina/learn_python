@@ -1,0 +1,3 @@
+sausage, 10 
+borscht, 15 
+sandwich, 33 
